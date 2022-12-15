@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/date-extension-calculator-web/static/css/main.473412bc.css",
+    "main.js": "/date-extension-calculator-web/static/js/main.6ead2d3b.js",
+    "static/js/787.9731949f.chunk.js": "/date-extension-calculator-web/static/js/787.9731949f.chunk.js",
+    "index.html": "/date-extension-calculator-web/index.html",
+    "main.473412bc.css.map": "/date-extension-calculator-web/static/css/main.473412bc.css.map",
+    "main.6ead2d3b.js.map": "/date-extension-calculator-web/static/js/main.6ead2d3b.js.map",
+    "787.9731949f.chunk.js.map": "/date-extension-calculator-web/static/js/787.9731949f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.473412bc.css",
+    "static/js/main.6ead2d3b.js"
+  ]
+}
