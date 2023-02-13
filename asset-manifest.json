@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/date-extension-calculator-dev/static/css/main.2ad98635.css",
-    "main.js": "/date-extension-calculator-dev/static/js/main.424126e1.js",
+    "main.css": "/date-extension-calculator-dev/static/css/main.f0ba53ce.css",
+    "main.js": "/date-extension-calculator-dev/static/js/main.c5de9aab.js",
     "static/js/787.9731949f.chunk.js": "/date-extension-calculator-dev/static/js/787.9731949f.chunk.js",
     "index.html": "/date-extension-calculator-dev/index.html",
-    "main.2ad98635.css.map": "/date-extension-calculator-dev/static/css/main.2ad98635.css.map",
-    "main.424126e1.js.map": "/date-extension-calculator-dev/static/js/main.424126e1.js.map",
+    "main.f0ba53ce.css.map": "/date-extension-calculator-dev/static/css/main.f0ba53ce.css.map",
+    "main.c5de9aab.js.map": "/date-extension-calculator-dev/static/js/main.c5de9aab.js.map",
     "787.9731949f.chunk.js.map": "/date-extension-calculator-dev/static/js/787.9731949f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ad98635.css",
-    "static/js/main.424126e1.js"
+    "static/css/main.f0ba53ce.css",
+    "static/js/main.c5de9aab.js"
   ]
 }
